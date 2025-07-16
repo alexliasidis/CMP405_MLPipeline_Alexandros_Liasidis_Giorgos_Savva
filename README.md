@@ -57,7 +57,7 @@
 ## 🖼️ Screenshots
 
 ### Εκπαίδευση Μοντέλου (Confusion Matrix)
-![confusion-matrix](images/confusion_matrix.png)
+![confusion-matrix](confusion_matrix.png)
 
 ### Agent Πρόβλεψη
 ![agent-predict](images/agent_predict.png)
