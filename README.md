@@ -60,7 +60,7 @@
 ![confusion-matrix](confusion_matrix.png)
 
 ### Agent Πρόβλεψη
-![agent-predict](images/agent_predict.png)
+![agent-predict](agent_predict.png)
 
 ---
 
